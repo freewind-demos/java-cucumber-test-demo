@@ -16,4 +16,6 @@ Cucumber是一个BDD测试框架，我们可以在`.feature`文件中，按特�
 一般写成`runTest.java`，但是也可以写成别的名字，比如`RunCucumberTest`，只要能让`mvn test`
 找到即可。
 
-Run `Hello.java` in your IDE.
+```
+mvn test
+```
